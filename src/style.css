@@ -79,9 +79,9 @@
     font-weight: bold;
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 590px) {
     .title {
-        font-size: 50px;
+        font-size: 45px;
     }
 
     .main h2 {
